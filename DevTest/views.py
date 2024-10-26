@@ -55,7 +55,7 @@ def upload_file(request):
                 'Python Assignment - Vinay Kumar Rai',
                 'Please see the attached data table.',
                 'demo911check@gmail.com',  
-                ['vinay19rai@gmail.com'],  
+                ['tech@themedius.ai'],  
                 html_message=email_body, 
                 fail_silently=False,
             )
